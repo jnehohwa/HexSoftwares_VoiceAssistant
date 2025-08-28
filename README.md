@@ -45,23 +45,23 @@ python demo.py
 - **CLI Mode**: `python -m src.voice_assistant.main` (Command line interface)
 - **Voice Mode**: `python -m src.voice_assistant.main --voice` (Voice I/O - requires extras)
 
-## 🚀 Advanced Features
+## Advanced Features
 
-### 🔧 **System Monitoring**
+### **System Monitoring**
 - **Real-time CPU monitoring** with usage percentages and frequency
 - **Memory tracking** including RAM, swap, and available memory
 - **Disk usage analysis** across all partitions
 - **Process monitoring** showing top CPU-intensive processes
 - **Network statistics** with interface information and data usage
 
-### 🤖 **AI Conversation**
+### **AI Conversation**
 - **Intelligent pattern matching** for natural language understanding
 - **Context-aware responses** with conversation history
 - **Multi-domain knowledge** covering time, weather, math, and system info
 - **Professional responses** designed for business environments
 - **Conversation memory** with recent interaction tracking
 
-### 🎯 **Enhanced Calculator**
+### **Enhanced Calculator**
 - **Advanced math functions**: sqrt, sin, cos, tan, log, abs, round, floor, ceil
 - **Complex expressions** with proper operator precedence
 - **Scientific notation** support
@@ -69,7 +69,7 @@ python demo.py
 
 ## GUI Features
 
-✨ **Beautiful Modern Interface**
+**Beautiful Modern Interface**
 - Dark theme with light blue color grading (`#4A90E2`)
 - Mobile-optimized layout (400x700)
 - Status bar with time, network, and battery indicators
@@ -78,7 +78,7 @@ python demo.py
 - Bottom control bar with clear, settings, about, and close buttons
 - Rounded corners and modern styling throughout
 
-🎯 **Easy to Use**
+**Easy to Use**
 - Quick action buttons for common commands
 - Always-visible text input with emoji placeholder
 - Real-time chat interface with styled messages
